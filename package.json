@@ -1,0 +1,28 @@
+{
+  "name": "bos-sdk-front-end",
+  "version": "1.0.0",
+  "description": "bos-sdk-js better practice in frontEnd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taniffer/bos-sdk-front-end.git"
+  },
+  "keywords": [
+    "bos",
+    "sdk"
+  ],
+  "author": "wanghaoran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Taniffer/bos-sdk-front-end/issues"
+  },
+  "homepage": "https://github.com/Taniffer/bos-sdk-front-end#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bce-sdk-js": "^0.2.9",
+    "md5": "^2.2.1"
+  }
+}
