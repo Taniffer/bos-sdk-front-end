@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Taniffer/bos-sdk-front-end#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bce-sdk-js": "^0.2.9",
     "md5": "^2.2.1"
   }
